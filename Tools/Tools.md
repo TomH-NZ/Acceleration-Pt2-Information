@@ -2,4 +2,9 @@
 
 ## Links
 
-https://buildkite.com/myob - Buildkite is used to construct the software, test and deploy it.
+* Links available through https://myapplications.microsoft.com/ for:
+  - Buildkite - Future Makers Academy pipelines
+  - Cloudsmith - Future Makers Academy repositories
+* https://www.postman.com/ - API platform tool
+* https://app.swaggerhub.com/home - API Documentation page
+* 
