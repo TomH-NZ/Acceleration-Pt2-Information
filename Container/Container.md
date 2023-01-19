@@ -7,6 +7,7 @@ https://www.docker.com/ - Containerisation software. Potential subscription requ
 
 https://www.linkedin.com/learning/learning-docker-2018/why-create-containers-using-docker - LinkedIn Learning course to learn about installing and configuring Docker.
 
+https://github.com/veggiemonk/awesome-docker#readme - Docker resources
 
 ## Questions
 

@@ -16,3 +16,4 @@ https://www.linkedin.com/learning/sql-essential-training-3/understanding-sql - L
 * What is a database used for?
 * What are the differences between SQL and NoSQL databases?
 * Why would you use NoSQL over an SQL database?
+* 
