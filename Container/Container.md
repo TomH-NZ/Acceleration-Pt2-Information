@@ -9,6 +9,8 @@ https://www.linkedin.com/learning/learning-docker-2018/why-create-containers-usi
 
 https://github.com/veggiemonk/awesome-docker#readme - Docker resources
 
+https://github.com/ramitsurana/awesome-kubernetes#readme - Kubernetes resources
+
 ## Questions
 
 * What are containers and what are they used for? 

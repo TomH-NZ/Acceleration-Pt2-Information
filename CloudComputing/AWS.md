@@ -6,9 +6,9 @@ https://docs.jupiter.myob.com/index.html - Need VPN to connect. Internal Jupiter
 
 https://github.com/donnemartin/awesome-aws#readme - AWS resources
 
-https://github.com/ramitsurana/awesome-kubernetes#readme - Kubernetes resources
+
 
 ## Questions
 * What is cloud computing?
 * Who has competing cloud offerings?
-* 
+* What services are available?
