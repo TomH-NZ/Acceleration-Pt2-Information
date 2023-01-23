@@ -13,3 +13,4 @@ https://github.com/MYOB-Technology/jupiter-workshop - Internal Jupiter training 
 * What is cloud computing?
 * Who has competing cloud offerings?
 * What services are available?
+* What is SaaS, Paas, Iaas?
