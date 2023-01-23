@@ -6,6 +6,7 @@ https://docs.jupiter.myob.com/index.html - Need VPN to connect. Internal Jupiter
 
 https://github.com/donnemartin/awesome-aws#readme - AWS resources
 
+https://github.com/MYOB-Technology/jupiter-workshop - Internal Jupiter training course.
 
 
 ## Questions
